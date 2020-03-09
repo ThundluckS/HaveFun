@@ -33,11 +33,11 @@ def class_text_to_int(row_label):
         return 1
     elif row_label == 'rabbit':
         return 2
-    elif row_label == 'bear'
+    elif row_label == 'bear':
         return 3
-    elif row_label == 'seal'
+    elif row_label == 'seal':
         return 4
-    elif row_label == 'totoro'
+    elif row_label == 'totoro':
         return 5
     else:
         None
